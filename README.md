@@ -16,7 +16,7 @@ You need to execute the following command line
 ```
 cd demo-maven-plugin
 mvn clean install
-mvn me.demo:maven-demo-plugin:1.0-SNAPSHOT:buildinfo
+mvn me.demo:simple-maven-plugin:1.0-SNAPSHOT:buildinfo
 ```
 
 2.compile project
